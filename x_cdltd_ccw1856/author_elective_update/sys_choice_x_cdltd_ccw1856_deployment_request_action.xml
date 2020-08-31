@@ -9,6 +9,7 @@
             <language>en</language>
             <name>x_cdltd_ccw1856_deployment_request</name>
             <sequence/>
+            <sys_class_name>sys_choice</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-04-15 00:21:33</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -28,6 +29,7 @@
             <language>en</language>
             <name>x_cdltd_ccw1856_deployment_request</name>
             <sequence/>
+            <sys_class_name>sys_choice</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-04-15 00:21:33</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -47,6 +49,7 @@
             <language>en</language>
             <name>x_cdltd_ccw1856_deployment_request</name>
             <sequence/>
+            <sys_class_name>sys_choice</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-04-15 00:21:33</sys_created_on>
             <sys_domain>global</sys_domain>
@@ -63,7 +66,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-04-15 00:21:33</sys_created_on>
-            <sys_id>e42f9bb3904810107f4468f7a3a96f8f</sys_id>
+            <sys_id>061fa97f2faa9010e25a59a72799b634</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>action</sys_name>
             <sys_package display_value="CCW1856" source="x_cdltd_ccw1856">b5a05473908010107f4468f7a3a96f5c</sys_package>
