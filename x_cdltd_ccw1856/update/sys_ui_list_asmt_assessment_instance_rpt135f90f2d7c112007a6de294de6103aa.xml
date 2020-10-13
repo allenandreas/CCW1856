@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="asmt_assessment_instance" version="2" view="RPT135f90f2d7c112007a6de294de6103aa">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="asmt_assessment_instance" element="NULL" name="asmt_assessment_instance" parent="NULL" relationship="NULL" sys_domain="global" view="107c35e32f23d450e25a59a72799b681">547c35e32f23d450e25a59a72799b682</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>aandrea</sys_created_by>
+            <sys_created_on>2020-10-05 12:51:48</sys_created_on>
+            <sys_id>147c35e32f23d450e25a59a72799b683</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aandrea</sys_updated_by>
+            <sys_updated_on>2020-10-05 12:51:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>metric_type</element>
+            <list_id display_value="asmt_assessment_instance" element="NULL" name="asmt_assessment_instance" parent="NULL" relationship="NULL" sys_domain="global" view="107c35e32f23d450e25a59a72799b681">547c35e32f23d450e25a59a72799b682</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>aandrea</sys_created_by>
+            <sys_created_on>2020-10-05 12:51:48</sys_created_on>
+            <sys_id>947c35e32f23d450e25a59a72799b683</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aandrea</sys_updated_by>
+            <sys_updated_on>2020-10-05 12:51:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>due_date</element>
+            <list_id display_value="asmt_assessment_instance" element="NULL" name="asmt_assessment_instance" parent="NULL" relationship="NULL" sys_domain="global" view="107c35e32f23d450e25a59a72799b681">547c35e32f23d450e25a59a72799b682</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>aandrea</sys_created_by>
+            <sys_created_on>2020-10-05 12:51:48</sys_created_on>
+            <sys_id>187c35e32f23d450e25a59a72799b683</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aandrea</sys_updated_by>
+            <sys_updated_on>2020-10-05 12:51:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="asmt_assessment_instance" element="NULL" name="asmt_assessment_instance" parent="NULL" relationship="NULL" sys_domain="global" view="107c35e32f23d450e25a59a72799b681">547c35e32f23d450e25a59a72799b682</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>aandrea</sys_created_by>
+            <sys_created_on>2020-10-05 12:51:48</sys_created_on>
+            <sys_id>987c35e32f23d450e25a59a72799b683</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aandrea</sys_updated_by>
+            <sys_updated_on>2020-10-05 12:51:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="asmt_assessment_instance" element="NULL" name="asmt_assessment_instance" parent="NULL" relationship="NULL" sys_domain="global" view="107c35e32f23d450e25a59a72799b681">547c35e32f23d450e25a59a72799b682</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>aandrea</sys_created_by>
+            <sys_created_on>2020-10-05 12:51:48</sys_created_on>
+            <sys_id>1c7c35e32f23d450e25a59a72799b683</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aandrea</sys_updated_by>
+            <sys_updated_on>2020-10-05 12:51:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assessment_group</element>
+            <list_id display_value="asmt_assessment_instance" element="NULL" name="asmt_assessment_instance" parent="NULL" relationship="NULL" sys_domain="global" view="107c35e32f23d450e25a59a72799b681">547c35e32f23d450e25a59a72799b682</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>aandrea</sys_created_by>
+            <sys_created_on>2020-10-05 12:51:48</sys_created_on>
+            <sys_id>9c7c35e32f23d450e25a59a72799b683</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aandrea</sys_updated_by>
+            <sys_updated_on>2020-10-05 12:51:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>asmt_assessment_instance</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>aandrea</sys_created_by>
+            <sys_created_on>2020-10-05 12:51:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>547c35e32f23d450e25a59a72799b682</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>asmt_assessment_instance</sys_name>
+            <sys_package display_value="CCW1856" source="x_cdltd_ccw1856">b5a05473908010107f4468f7a3a96f5c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CCW1856">b5a05473908010107f4468f7a3a96f5c</sys_scope>
+            <sys_update_name>sys_ui_list_asmt_assessment_instance_RPT135f90f2d7c112007a6de294de6103aa</sys_update_name>
+            <sys_updated_by>aandrea</sys_updated_by>
+            <sys_updated_on>2020-10-05 12:51:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt135f90f2d7c112007a6de294de6103aa" name="RPT135f90f2d7c112007a6de294de6103aa">107c35e32f23d450e25a59a72799b681</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
